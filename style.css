@@ -1,0 +1,35 @@
+header {
+      background: linear-gradient(90deg, #00695c, #26a69a);
+      color: white;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    header h1 {
+      font-size: 2.8rem;
+    }
+    .card h5 {
+      color: #26a69a;
+    }
+    .testimonios {
+      background: #e0f2f1;
+      padding: 3rem 1rem;
+    }
+    .testimonial {
+      background: white;
+      border-left: 6px solid #26a69a;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+    }
+    footer {
+      background: #004d40;
+      color: white;
+      padding: 2.5rem 1rem;
+    }
+    footer a {
+      color: #80cbc4;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
